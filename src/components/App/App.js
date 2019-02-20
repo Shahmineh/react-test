@@ -1,0 +1,1 @@
+@observer export dafault class App extends Component {}
